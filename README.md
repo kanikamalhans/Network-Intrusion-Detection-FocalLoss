@@ -1,5 +1,7 @@
 # GNN-Based Intrusion Detection with Focal Loss and Edge Features
 
+Presented in International Conference on Web Intelligence and Human-
+Machine Interaction (ICWIHI 2025) organised by R P Sarathy Institute of Technology, Salem, Tamil Nadu, India on 8 April 2025.
 This project presents a **Graph Neural Network (GNN)**-based framework for network intrusion detection using the **UNSW-NB15** dataset. Unlike traditional ML/DL approaches that treat network events independently, our system represents them as nodes in a graph and uses **edge attributes** and **Focal Loss** to boost detection performance, particularly for underrepresented attack types.
 
 ## 🚀 Highlights
