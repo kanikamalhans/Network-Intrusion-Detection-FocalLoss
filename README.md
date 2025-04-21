@@ -58,15 +58,10 @@ cd GNN-Intrusion-Detection
 pip install -r requirements.txt
 ```
 
-## 👨‍💻 Authors
-- Kanika Kamalhans
-- Anushka Gupta
-- Ayushi
-- Amisha Sharma
-- B.Tech Students, IGDTUW, Delhi
+## 👨‍💻 Authors (B.Tech'25 IGDTUW, Delhi)
+- Kanika Kamalhans (kanikamalhans@gmail.com)
+- Anushka Gupta (anushka.2210@gmail.com)
+- Ayushi (ayushisharma200311@gmail.com)
+- Amisha Sharma (amishasharma2778@gmail.com)
 
-## 📫 Contact
-- kanikamalhans@gmail.com
-- ayushisharma200311@gmail.com
-- anushka.2210@gmail.com
-- amishasharma2778@gmail.com
+
