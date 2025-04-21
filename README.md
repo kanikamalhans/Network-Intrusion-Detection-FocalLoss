@@ -37,6 +37,19 @@ This project presents a **Graph Neural Network (GNN)**-based framework for netwo
 | Macro F1 | 41.3% |
 | Weighted F1 | 96.9% |
 
+## 🔧 Requirements
+
+```txt
+torch
+torch_geometric
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+networkx
+
+
 ## 📦 Installation
 
 ```bash
