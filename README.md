@@ -58,22 +58,15 @@ cd GNN-Intrusion-Detection
 pip install -r requirements.txt
 ```
 
-🛠️ Future Work
-⚡ Integrate attention mechanisms (e.g., Graph Attention Networks - GAT) for enhanced context modeling in graphs.
-🧪 Apply self-supervised pretraining on graph-structured data to boost generalization and detection performance.
-📊 Use advanced data augmentation or oversampling techniques to better handle rare attack classes.
-🔁 Explore temporal GNNs to model sequential patterns and time-sensitive behavior in network traffic.
-🧩 Create a real-time deployable system with explainable and interpretable outputs to aid cybersecurity analysts.
+## 👨‍💻 Authors
+-Kanika Kamalhans
+-Anushka Gupta
+-Ayushi
+-Amisha Sharma
+-B.Tech Students, IGDTUW, Delhi
 
-👨‍💻 Authors
-Kanika Kamalhans
-Anushka Gupta
-Ayushi
-Amisha Sharma
-B.Tech Students, IGDTUW, Delhi
-
-📫 Contact
-kanikamalhans@gmail.com
-ayushisharma200311@gmail.com
-anushka.2210@gmail.com
-amishasharma2778@gmail.com
+## 📫 Contact
+-kanikamalhans@gmail.com
+-ayushisharma200311@gmail.com
+-anushka.2210@gmail.com
+-amishasharma2778@gmail.com
