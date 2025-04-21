@@ -59,14 +59,14 @@ pip install -r requirements.txt
 ```
 
 ## 👨‍💻 Authors
--Kanika Kamalhans
--Anushka Gupta
--Ayushi
--Amisha Sharma
--B.Tech Students, IGDTUW, Delhi
+- Kanika Kamalhans
+- Anushka Gupta
+- Ayushi
+- Amisha Sharma
+- B.Tech Students, IGDTUW, Delhi
 
 ## 📫 Contact
--kanikamalhans@gmail.com
--ayushisharma200311@gmail.com
--anushka.2210@gmail.com
--amishasharma2778@gmail.com
+- kanikamalhans@gmail.com
+- ayushisharma200311@gmail.com
+- anushka.2210@gmail.com
+- amishasharma2778@gmail.com
